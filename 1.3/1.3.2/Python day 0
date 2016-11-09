@@ -1,0 +1,4 @@
+import matplotlib.pyplot as plt
+a = randn(10000)
+plt.hist(a)H:\6-Computer Science PLTW\1.3\1.3.2
+%logstart -ort studentNames_1_3_2.log %logstop
